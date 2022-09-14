@@ -1,9 +1,5 @@
-import Main from "./scenes/Main";
+import Main from './scenes/Main';
 
-const App = () => (
-    <>
-        <Main/>
-    </>
-)
+const App = () => <Main/>
 
 export default App;
